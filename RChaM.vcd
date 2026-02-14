@@ -1,0 +1,115 @@
+$date
+	Sat Feb 14 20:47:35 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module behavior_model_tb $end
+$var wire 1 ! t_F $end
+$var reg 4 " t_input [3:0] $end
+$var integer 32 # i [31:0] $end
+$scope module dut $end
+$var wire 1 $ A $end
+$var wire 1 % B $end
+$var wire 1 & C $end
+$var wire 1 ' D $end
+$var reg 1 ! F $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0'
+0&
+0%
+0$
+b1 #
+b0 "
+0!
+$end
+#30000
+1'
+b10 #
+b1 "
+#60000
+1&
+0'
+b11 #
+b10 "
+#90000
+1!
+1'
+b100 #
+b11 "
+#120000
+1%
+0&
+0'
+b101 #
+b100 "
+#150000
+1'
+b110 #
+b101 "
+#180000
+1&
+0'
+b111 #
+b110 "
+#210000
+1'
+b1000 #
+b111 "
+#240000
+0!
+1$
+0%
+0&
+0'
+b1001 #
+b1000 "
+#270000
+1!
+1'
+b1010 #
+b1001 "
+#300000
+0!
+1&
+0'
+b1011 #
+b1010 "
+#330000
+1!
+1'
+b1100 #
+b1011 "
+#360000
+0!
+1%
+0&
+0'
+b1101 #
+b1100 "
+#390000
+1!
+1'
+b1110 #
+b1101 "
+#420000
+0!
+1&
+0'
+b1111 #
+b1110 "
+#450000
+1!
+1'
+b10000 #
+b1111 "
