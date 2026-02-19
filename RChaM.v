@@ -1,5 +1,8 @@
 `timescale  1ns /1ps
 
+// Behavioral Model
+// F(A,B,C,D) = πM(0,1,2,8,10,12,14)
+
 module circuit_behavior(F,A,B,C,D);
     input A,B,C,D;
     output reg F; 
