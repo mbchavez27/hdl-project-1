@@ -1,3 +1,4 @@
+// Name: Max Benedict Chavez, Section: S18
 `timescale  1ns /1ps
 
 // Behavioral Model
